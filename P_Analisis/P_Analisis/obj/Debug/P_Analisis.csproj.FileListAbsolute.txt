@@ -1,0 +1,7 @@
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\bin\Debug\P_Analisis.exe.config
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\bin\Debug\P_Analisis.exe
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\bin\Debug\P_Analisis.pdb
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\obj\Debug\P_Analisis.csprojResolveAssemblyReference.cache
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\obj\Debug\P_Analisis.csproj.CoreCompileInputs.cache
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\obj\Debug\P_Analisis.exe
+C:\Users\vicnb\Documents\TEC\5 SEM\Analisis de Algoritmos\Git\Progra_Analisis\P_Analisis\P_Analisis\obj\Debug\P_Analisis.pdb
